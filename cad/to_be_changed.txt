@@ -1,0 +1,6 @@
+- Larger intergear distance
+- Smaller sleds to fit same on opposite site
+- Servo mounting - avoid wire bending
+
+- Screws to close to site stiffeners when inserted from opposite site
+- Screwes may me to large in head diam if inserted from the correct site
